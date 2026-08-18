@@ -1,1 +1,4 @@
-This is demo file for learning git commands 
+// This is demo file for learning git commands 
+
+// GIT --> Git is a version control tool
+// GITHUB --> Github is a hosting Platform
